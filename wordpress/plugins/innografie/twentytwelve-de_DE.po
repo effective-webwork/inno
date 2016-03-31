@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fbpsych v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-24 09:56:39+0000\n"
+"Last-Translator: admin <schoenfeld@effective-webwork.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: fbpsych_login_widget.php:40
+#@ twentytwelve
+msgid "FBP_PROJECT_WELCOME"
+msgstr "Willkommen im Innografie-Tool"
+
+#: fbpsych_login_widget.php:56
+#@ twentytwelve
+msgid "FBP_PROJECT_START"
+msgstr "Innografie-Tool starten"
+
+#: fbpsych_login_widget.php:64
+#@ twentytwelve
+msgid "FBP_LOGOUT"
+msgstr "abmelden"
+
+#: fbpsych_login_widget.php:71
+#@ twentytwelve
+msgid "FBP_LOGIN_MAIN"
+msgstr "Hier können Sie sich anmelden"
+
+#: fbpsych_login_widget.php:72
+#@ twentytwelve
+msgid "FBP_LOGIN"
+msgstr "Anmelden"
+
+#: fbpsych_login_widget.php:68
+#@ twentytwelve
+msgid "FBP_REGISTER_MAIN"
+msgstr "Hier registrieren Sie Ihr Unternehmen"
+
+#: fbpsych_login_widget.php:69
+#@ twentytwelve
+msgid "FBP_REGISTER"
+msgstr "Registrieren"
+
+#: fbpsych_login_widget.php:93
+#: fbpsych_survey_widget.php:90
+#@ text_domain
+msgid "New title"
+msgstr ""
+
+#: fbpsych_login_widget.php:97
+#: fbpsych_survey_widget.php:94
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:46
+#: classes/wp_plugin_settings.php:381
+#@ plugin_textdomain
+msgid "Plugin Settings"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:75
+#@ plugin_textdomain
+msgid "Settings"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:87
+#@ plugin_textdomain
+msgid "Standard"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:88
+#@ plugin_textdomain
+msgid "These are fairly standard form input fields."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:92
+#@ plugin_textdomain
+msgid "Some Text"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:93
+#@ plugin_textdomain
+msgid "This is a standard text field."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:96
+#: classes/wp_plugin_settings.php:104
+#: classes/wp_plugin_settings.php:112
+#@ plugin_textdomain
+msgid "Placeholder text"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:100
+#@ plugin_textdomain
+msgid "A Password"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:101
+#@ plugin_textdomain
+msgid "This is a standard password field."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:108
+#@ plugin_textdomain
+msgid "Some Secret Text"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:109
+#@ plugin_textdomain
+msgid "This is a secret text field - any data saved here will not be displayed after the page has reloaded, but it will be saved."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:116
+#@ plugin_textdomain
+msgid "A Text Block"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:117
+#@ plugin_textdomain
+msgid "This is a standard text area."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:120
+#@ plugin_textdomain
+msgid "Placeholder text for this textarea"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:124
+#@ plugin_textdomain
+msgid "An Option"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:125
+#@ plugin_textdomain
+msgid "A standard checkbox - if you save this option as checked then it will store the option as 'on', otherwise it will be an empty string."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:131
+#@ plugin_textdomain
+msgid "A Select Box"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:132
+#@ plugin_textdomain
+msgid "A standard select box."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:139
+#@ plugin_textdomain
+msgid "Some Options"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:140
+#@ plugin_textdomain
+msgid "A standard set of radio buttons."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:147
+#@ plugin_textdomain
+msgid "Some Items"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:148
+#@ plugin_textdomain
+msgid "You can select multiple items and they will be stored as an array."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:157
+#@ plugin_textdomain
+msgid "Extra"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:158
+#@ plugin_textdomain
+msgid "These are some extra input fields that maybe aren't as common as the others."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:162
+#@ plugin_textdomain
+msgid "A Number"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:163
+#@ plugin_textdomain
+msgid "This is a standard number field - if this field contains anything other than numbers then the form will not be submitted."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:166
+#@ plugin_textdomain
+msgid "42"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:170
+#@ plugin_textdomain
+msgid "Pick a colour"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:171
+#@ plugin_textdomain
+msgid "This uses WordPress' built-in colour picker - the option is stored as the colour's hex code."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:177
+#@ plugin_textdomain
+msgid "An Image"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:178
+#@ plugin_textdomain
+msgid "This will upload an image to your media library and store the attachment ID in the option field. Once you have uploaded an imge the thumbnail will display above these buttons."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:185
+#@ plugin_textdomain
+msgid "A Multi-Select Box"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:186
+#@ plugin_textdomain
+msgid "A standard multi-select box - the saved data is stored as an array."
+msgstr ""
+
+#: classes/wp_plugin_settings.php:330
+#@ plugin_textdomain
+msgid "Upload an image"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:330
+#@ plugin_textdomain
+msgid "Use image"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:330
+#@ plugin_textdomain
+msgid "Upload new image"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:331
+#@ plugin_textdomain
+msgid "Remove image"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:386
+#@ plugin_textdomain
+msgid "All"
+msgstr ""
+
+#: classes/wp_plugin_settings.php:403
+#@ plugin_textdomain
+msgid "Save Settings"
+msgstr ""
+
+#: fbpsych.php:71
+#, php-format
+#@ default
+msgid "Innografie Online: Neuer Benutzer: %s"
+msgstr ""
+
+#: fbpsych.php:1284
+#@ twentytwelve
+msgid "FBP_BANNER_MAIN_TITLE"
+msgstr "&nbsp;"
+
+#: fbpsych.php:1287
+#@ twentytwelve
+msgid "FBP_BANNER_SUB_TITLE"
+msgstr "&nbsp;"
+
+#: fbpsych.php:1310
+#@ twentytwelve
+msgid "FBP_PDFS_MORE"
+msgstr "</br>PDF-Version des Innografie-Fragebogens (Gesamt) in Deutsch und Englisch"
+

@@ -1,0 +1,413 @@
+krs09,krs09name,ROR08,ROR08name,kkz1,kkz2
+1001000,"Flensburg, Stadt",102,Schleswig-Holstein Nord,1001,01001
+1002000,"Kiel, Stadt",101,Schleswig-Holstein Mitte,1002,01002
+1003000,"Lübeck, Stadt",103,Schleswig-Holstein Ost,1003,01003
+1004000,"Neumünster, Stadt",101,Schleswig-Holstein Mitte,1004,01004
+1051000,Dithmarschen,105,Schleswig-Holstein Süd-West,1051,01051
+1053000,Herzogtum Lauenburg,104,Schleswig-Holstein Süd,1053,01053
+1054000,Nordfriesland,102,Schleswig-Holstein Nord,1054,01054
+1055000,Ostholstein,103,Schleswig-Holstein Ost,1055,01055
+1056000,Pinneberg,104,Schleswig-Holstein Süd,1056,01056
+1057000,Plön,101,Schleswig-Holstein Mitte,1057,01057
+1058000,Rendsburg-Eckernförde,101,Schleswig-Holstein Mitte,1058,01058
+1059000,Schleswig-Flensburg,102,Schleswig-Holstein Nord,1059,01059
+1060000,Segeberg,104,Schleswig-Holstein Süd,1060,01060
+1061000,Steinburg,105,Schleswig-Holstein Süd-West,1061,01061
+1062000,Stormarn,104,Schleswig-Holstein Süd,1062,01062
+2000000,"Hamburg, Stadt",201,Hamburg,2000,02000
+3101000,"Braunschweig, Stadt",301,Braunschweig,3101,03101
+3102000,"Salzgitter, Stadt",301,Braunschweig,3102,03102
+3103000,"Wolfsburg, Stadt",301,Braunschweig,3103,03103
+3151000,Gifhorn,301,Braunschweig,3151,03151
+3152000,Göttingen,305,Göttingen,3152,03152
+3153000,Goslar,301,Braunschweig,3153,03153
+3154000,Helmstedt,301,Braunschweig,3154,03154
+3155000,Northeim,305,Göttingen,3155,03155
+3156000,Osterode am Harz,305,Göttingen,3156,03156
+3157000,Peine,301,Braunschweig,3157,03157
+3158000,Wolfenbüttel,301,Braunschweig,3158,03158
+3241000,Region Hannover,307,Hannover,3241,03241
+3251000,Diepholz,302,Bremen-Umland,3251,03251
+3252000,Hameln-Pyrmont,308,Hildesheim,3252,03252
+3254000,Hildesheim,308,Hildesheim,3254,03254
+3255000,Holzminden,305,Göttingen,3255,03255
+3256000,Nienburg (Weser),307,Hannover,3256,03256
+3257000,Schaumburg,307,Hannover,3257,03257
+3351000,Celle,313,Südheide,3351,03351
+3352000,Cuxhaven,303,Bremerhaven,3352,03352
+3353000,Harburg,306,Hamburg-Umland-Süd,3353,03353
+3354000,Lüchow-Dannenberg,309,Lüneburg,3354,03354
+3355000,Lüneburg,309,Lüneburg,3355,03355
+3356000,Osterholz,302,Bremen-Umland,3356,03356
+3357000,Rotenburg (Wümme),306,Hamburg-Umland-Süd,3357,03357
+3358000,Soltau-Fallingbostel,313,Südheide,3358,03358
+3359000,Stade,306,Hamburg-Umland-Süd,3359,03359
+3360000,Uelzen,309,Lüneburg,3360,03360
+3361000,Verden,302,Bremen-Umland,3361,03361
+3401000,"Delmenhorst, Stadt",302,Bremen-Umland,3401,03401
+3402000,"Emden, Stadt",312,Ost-Friesland,3402,03402
+3403000,"Oldenburg (Oldenburg), Stadt",310,Oldenburg,3403,03403
+3404000,"Osnabrück, Stadt",311,Osnabrück,3404,03404
+3405000,"Wilhelmshaven, Stadt",312,Ost-Friesland,3405,03405
+3451000,Ammerland,310,Oldenburg,3451,03451
+3452000,Aurich,312,Ost-Friesland,3452,03452
+3453000,Cloppenburg,310,Oldenburg,3453,03453
+3454000,Emsland,304,Emsland,3454,03454
+3455000,Friesland,312,Ost-Friesland,3455,03455
+3456000,Grafschaft Bentheim,304,Emsland,3456,03456
+3457000,Leer,312,Ost-Friesland,3457,03457
+3458000,Oldenburg,310,Oldenburg,3458,03458
+3459000,Osnabrück,311,Osnabrück,3459,03459
+3460000,Vechta,311,Osnabrück,3460,03460
+3461000,Wesermarsch,303,Bremerhaven,3461,03461
+3462000,Wittmund,312,Ost-Friesland,3462,03462
+4011000,"Bremen, Stadt",401,Bremen,4011,04011
+4012000,"Bremerhaven, Stadt",303,Bremerhaven,4012,04012
+5111000,"Düsseldorf, Stadt",508,Düsseldorf,5111,05111
+5112000,"Duisburg, Stadt",507,Duisburg/Essen,5112,05112
+5113000,"Essen, Stadt",507,Duisburg/Essen,5113,05113
+5114000,"Krefeld, Stadt",508,Düsseldorf,5114,05114
+5116000,"Mönchengladbach, Stadt",508,Düsseldorf,5116,05116
+5117000,"Mülheim an der Ruhr, Stadt",507,Duisburg/Essen,5117,05117
+5119000,"Oberhausen, Stadt",507,Duisburg/Essen,5119,05119
+5120000,"Remscheid, Stadt",508,Düsseldorf,5120,05120
+5122000,"Solingen, Stadt",508,Düsseldorf,5122,05122
+5124000,"Wuppertal, Stadt",508,Düsseldorf,5124,05124
+5154000,Kleve,507,Duisburg/Essen,5154,05154
+5158000,Mettmann,508,Düsseldorf,5158,05158
+5162000,Rhein-Kreis Neuss,508,Düsseldorf,5162,05162
+5166000,Viersen,508,Düsseldorf,5166,05166
+5170000,Wesel,507,Duisburg/Essen,5170,05170
+5314000,"Bonn, Stadt",505,Bonn,5314,05314
+5315000,"Köln, Stadt",510,Köln,5315,05315
+5316000,"Leverkusen, Stadt",510,Köln,5316,05316
+5334000,Städteregion Aachen,501,Aachen,5334,05334
+5358000,Düren,501,Aachen,5358,05358
+5362000,Rhein-Erft-Kreis,510,Köln,5362,05362
+5366000,Euskirchen,501,Aachen,5366,05366
+5370000,Heinsberg,501,Aachen,5370,05370
+5374000,Oberbergischer Kreis,510,Köln,5374,05374
+5378000,Rheinisch-Bergischer Kreis,510,Köln,5378,05378
+5382000,Rhein-Sieg-Kreis,505,Bonn,5382,05382
+5512000,"Bottrop, Stadt",509,Emscher-Lippe,5512,05512
+5513000,"Gelsenkirchen, Stadt",509,Emscher-Lippe,5513,05513
+5515000,"Münster, Stadt",511,Münster,5515,05515
+5554000,Borken,511,Münster,5554,05554
+5558000,Coesfeld,511,Münster,5558,05558
+5562000,Recklinghausen,509,Emscher-Lippe,5562,05562
+5566000,Steinfurt,511,Münster,5566,05566
+5570000,Warendorf,511,Münster,5570,05570
+5711000,"Bielefeld, Stadt",503,Bielefeld,5711,05711
+5754000,Gütersloh,503,Bielefeld,5754,05754
+5758000,Herford,503,Bielefeld,5758,05758
+5762000,Höxter,512,Paderborn,5762,05762
+5766000,Lippe,503,Bielefeld,5766,05766
+5770000,Minden-Lübbecke,503,Bielefeld,5770,05770
+5774000,Paderborn,512,Paderborn,5774,05774
+5911000,"Bochum, Stadt",504,Bochum/Hagen,5911,05911
+5913000,"Dortmund, Stadt",506,Dortmund,5913,05913
+5914000,"Hagen, Stadt",504,Bochum/Hagen,5914,05914
+5915000,"Hamm, Stadt",506,Dortmund,5915,05915
+5916000,"Herne, Stadt",504,Bochum/Hagen,5916,05916
+5954000,Ennepe-Ruhr-Kreis,504,Bochum/Hagen,5954,05954
+5958000,Hochsauerlandkreis,502,Arnsberg,5958,05958
+5962000,Märkischer Kreis,504,Bochum/Hagen,5962,05962
+5966000,Olpe,513,Siegen,5966,05966
+5970000,Siegen-Wittgenstein,513,Siegen,5970,05970
+5974000,Soest,502,Arnsberg,5974,05974
+5978000,Unna,506,Dortmund,5978,05978
+6411000,"Darmstadt, Stadt",605,Starkenburg,6411,06411
+6412000,"Frankfurt am Main, Stadt",604,Rhein-Main,6412,06412
+6413000,"Offenbach am Main, Stadt",604,Rhein-Main,6413,06413
+6414000,"Wiesbaden, Stadt",604,Rhein-Main,6414,06414
+6431000,Bergstraße,605,Starkenburg,6431,06431
+6432000,Darmstadt-Dieburg,605,Starkenburg,6432,06432
+6433000,Groß-Gerau,605,Starkenburg,6433,06433
+6434000,Hochtaunuskreis,604,Rhein-Main,6434,06434
+6435000,Main-Kinzig-Kreis,604,Rhein-Main,6435,06435
+6436000,Main-Taunus-Kreis,604,Rhein-Main,6436,06436
+6437000,Odenwaldkreis,605,Starkenburg,6437,06437
+6438000,Offenbach,604,Rhein-Main,6438,06438
+6439000,Rheingau-Taunus-Kreis,604,Rhein-Main,6439,06439
+6440000,Wetteraukreis,604,Rhein-Main,6440,06440
+6531000,Gießen,601,Mittelhessen,6531,06531
+6532000,Lahn-Dill-Kreis,601,Mittelhessen,6532,06532
+6533000,Limburg-Weilburg,601,Mittelhessen,6533,06533
+6534000,Marburg-Biedenkopf,601,Mittelhessen,6534,06534
+6535000,Vogelsbergkreis,601,Mittelhessen,6535,06535
+6611000,"Kassel, Stadt",602,Nordhessen,6611,06611
+6631000,Fulda,603,Osthessen,6631,06631
+6632000,Hersfeld-Rotenburg,603,Osthessen,6632,06632
+6633000,Kassel,602,Nordhessen,6633,06633
+6634000,Schwalm-Eder-Kreis,602,Nordhessen,6634,06634
+6635000,Waldeck-Frankenberg,602,Nordhessen,6635,06635
+6636000,Werra-Meißner-Kreis,602,Nordhessen,6636,06636
+7111000,"Koblenz, Stadt",701,Mittelrhein-Westerwald,7111,07111
+7131000,Ahrweiler,701,Mittelrhein-Westerwald,7131,07131
+7132000,Altenkirchen (Westerwald),701,Mittelrhein-Westerwald,7132,07132
+7133000,Bad Kreuznach,702,Rheinhessen-Nahe,7133,07133
+7134000,Birkenfeld,702,Rheinhessen-Nahe,7134,07134
+7135000,Cochem-Zell,701,Mittelrhein-Westerwald,7135,07135
+7137000,Mayen-Koblenz,701,Mittelrhein-Westerwald,7137,07137
+7138000,Neuwied,701,Mittelrhein-Westerwald,7138,07138
+7140000,Rhein-Hunsrück-Kreis,701,Mittelrhein-Westerwald,7140,07140
+7141000,Rhein-Lahn-Kreis,701,Mittelrhein-Westerwald,7141,07141
+7143000,Westerwaldkreis,701,Mittelrhein-Westerwald,7143,07143
+7211000,"Trier, Stadt",704,Trier,7211,07211
+7231000,Bernkastel-Wittlich,704,Trier,7231,07231
+7232000,Eifelkreis Bitburg-Prüm,704,Trier,7232,07232
+7233000,Vulkaneifel,704,Trier,7233,07233
+7235000,Trier-Saarburg,704,Trier,7235,07235
+7311000,"Frankenthal (Pfalz), Stadt",703,Rheinpfalz,7311,07311
+7312000,"Kaiserslautern, Stadt",705,Westpfalz,7312,07312
+7313000,"Landau in der Pfalz, Stadt",703,Rheinpfalz,7313,07313
+7314000,"Ludwigshafen am Rhein, Stadt",703,Rheinpfalz,7314,07314
+7315000,"Mainz, Stadt",702,Rheinhessen-Nahe,7315,07315
+7316000,"Neustadt an der Weinstraße, Stadt",703,Rheinpfalz,7316,07316
+7317000,"Pirmasens, Stadt",705,Westpfalz,7317,07317
+7318000,"Speyer, Stadt",703,Rheinpfalz,7318,07318
+7319000,"Worms, Stadt",702,Rheinhessen-Nahe,7319,07319
+7320000,"Zweibrücken, Stadt",705,Westpfalz,7320,07320
+7331000,Alzey-Worms,702,Rheinhessen-Nahe,7331,07331
+7332000,Bad Dürkheim,703,Rheinpfalz,7332,07332
+7333000,Donnersbergkreis,705,Westpfalz,7333,07333
+7334000,Germersheim,703,Rheinpfalz,7334,07334
+7335000,Kaiserslautern,705,Westpfalz,7335,07335
+7336000,Kusel,705,Westpfalz,7336,07336
+7337000,Südliche Weinstraße,703,Rheinpfalz,7337,07337
+7338000,Rhein-Pfalz-Kreis,703,Rheinpfalz,7338,07338
+7339000,Mainz-Bingen,702,Rheinhessen-Nahe,7339,07339
+7340000,Südwestpfalz,705,Westpfalz,7340,07340
+8111000,"Stuttgart, Stadt",810,Stuttgart,8111,08111
+8115000,Böblingen,810,Stuttgart,8115,08115
+8116000,Esslingen,810,Stuttgart,8116,08116
+8117000,Göppingen,810,Stuttgart,8117,08117
+8118000,Ludwigsburg,810,Stuttgart,8118,08118
+8119000,Rems-Murr-Kreis,810,Stuttgart,8119,08119
+8121000,"Heilbronn, Stadt",803,Franken,8121,08121
+8125000,Heilbronn,803,Franken,8125,08125
+8126000,Hohenlohekreis,803,Franken,8126,08126
+8127000,Schwäbisch Hall,803,Franken,8127,08127
+8128000,Main-Tauber-Kreis,803,Franken,8128,08128
+8135000,Heidenheim,808,Ostwürttemberg,8135,08135
+8136000,Ostalbkreis,808,Ostwürttemberg,8136,08136
+8211000,"Baden-Baden, Stadt",805,Mittlerer Oberrhein,8211,08211
+8212000,"Karlsruhe, Stadt",805,Mittlerer Oberrhein,8212,08212
+8215000,Karlsruhe,805,Mittlerer Oberrhein,8215,08215
+8216000,Rastatt,805,Mittlerer Oberrhein,8216,08216
+8221000,"Heidelberg, Stadt",812,Unterer Neckar,8221,08221
+8222000,"Mannheim, Stadt",812,Unterer Neckar,8222,08222
+8225000,Neckar-Odenwald-Kreis,812,Unterer Neckar,8225,08225
+8226000,Rhein-Neckar-Kreis,812,Unterer Neckar,8226,08226
+8231000,"Pforzheim, Stadt",807,Nordschwarzwald,8231,08231
+8235000,Calw,807,Nordschwarzwald,8235,08235
+8236000,Enzkreis,807,Nordschwarzwald,8236,08236
+8237000,Freudenstadt,807,Nordschwarzwald,8237,08237
+8311000,"Freiburg im Breisgau, Stadt",811,Südlicher Oberrhein,8311,08311
+8315000,Breisgau-Hochschwarzwald,811,Südlicher Oberrhein,8315,08315
+8316000,Emmendingen,811,Südlicher Oberrhein,8316,08316
+8317000,Ortenaukreis,811,Südlicher Oberrhein,8317,08317
+8325000,Rottweil,809,Schwarzwald-Baar-Heuberg,8325,08325
+8326000,Schwarzwald-Baar-Kreis,809,Schwarzwald-Baar-Heuberg,8326,08326
+8327000,Tuttlingen,809,Schwarzwald-Baar-Heuberg,8327,08327
+8335000,Konstanz,804,Hochrhein-Bodensee,8335,08335
+8336000,Lörrach,804,Hochrhein-Bodensee,8336,08336
+8337000,Waldshut,804,Hochrhein-Bodensee,8337,08337
+8415000,Reutlingen,806,Neckar-Alb,8415,08415
+8416000,Tübingen,806,Neckar-Alb,8416,08416
+8417000,Zollernalbkreis,806,Neckar-Alb,8417,08417
+8421000,"Ulm, Stadt",802,Donau-Iller (BW),8421,08421
+8425000,Alb-Donau-Kreis,802,Donau-Iller (BW),8425,08425
+8426000,Biberach,802,Donau-Iller (BW),8426,08426
+8435000,Bodenseekreis,801,Bodensee-Oberschwaben,8435,08435
+8436000,Ravensburg,801,Bodensee-Oberschwaben,8436,08436
+8437000,Sigmaringen,801,Bodensee-Oberschwaben,8437,08437
+9161000,"Ingolstadt, Stadt",907,Ingolstadt,9161,09161
+9162000,"München, Stadt",910,München,9162,09162
+9163000,"Rosenheim, Stadt",916,Südostoberbayern,9163,09163
+9171000,Altötting,916,Südostoberbayern,9171,09171
+9172000,Berchtesgadener Land,916,Südostoberbayern,9172,09172
+9173000,Bad Tölz-Wolfratshausen,913,Oberland,9173,09173
+9174000,Dachau,910,München,9174,09174
+9175000,Ebersberg,910,München,9175,09175
+9176000,Eichstätt,907,Ingolstadt,9176,09176
+9177000,Erding,910,München,9177,09177
+9178000,Freising,910,München,9178,09178
+9179000,Fürstenfeldbruck,910,München,9179,09179
+9180000,Garmisch-Partenkirchen,913,Oberland,9180,09180
+9181000,Landsberg am Lech,910,München,9181,09181
+9182000,Miesbach,913,Oberland,9182,09182
+9183000,Mühldorf a.Inn,916,Südostoberbayern,9183,09183
+9184000,München,910,München,9184,09184
+9185000,Neuburg-Schrobenhausen,907,Ingolstadt,9185,09185
+9186000,Pfaffenhofen a.d.Ilm,907,Ingolstadt,9186,09186
+9187000,Rosenheim,916,Südostoberbayern,9187,09187
+9188000,Starnberg,910,München,9188,09188
+9189000,Traunstein,916,Südostoberbayern,9189,09189
+9190000,Weilheim-Schongau,913,Oberland,9190,09190
+9261000,"Landshut, Stadt",908,Landshut,9261,09261
+9262000,"Passau, Stadt",905,Donau-Wald,9262,09262
+9263000,"Straubing, Stadt",905,Donau-Wald,9263,09263
+9271000,Deggendorf,905,Donau-Wald,9271,09271
+9272000,Freyung-Grafenau,905,Donau-Wald,9272,09272
+9273000,Kelheim,915,Regensburg,9273,09273
+9274000,Landshut,908,Landshut,9274,09274
+9275000,Passau,905,Donau-Wald,9275,09275
+9276000,Regen,905,Donau-Wald,9276,09276
+9277000,Rottal-Inn,908,Landshut,9277,09277
+9278000,Straubing-Bogen,905,Donau-Wald,9278,09278
+9279000,Dingolfing-Landau,908,Landshut,9279,09279
+9361000,"Amberg, Stadt",914,Oberpfalz-Nord,9361,09361
+9362000,"Regensburg, Stadt",915,Regensburg,9362,09362
+9363000,"Weiden i.d.Opf., Stadt",914,Oberpfalz-Nord,9363,09363
+9371000,Amberg-Sulzbach,914,Oberpfalz-Nord,9371,09371
+9372000,Cham,915,Regensburg,9372,09372
+9373000,Neumarkt i.d.OPf.,915,Regensburg,9373,09373
+9374000,Neustadt a.d.Waldnaab,914,Oberpfalz-Nord,9374,09374
+9375000,Regensburg,915,Regensburg,9375,09375
+9376000,Schwandorf,914,Oberpfalz-Nord,9376,09376
+9377000,Tirschenreuth,914,Oberpfalz-Nord,9377,09377
+9461000,"Bamberg, Stadt",912,Oberfranken-West,9461,09461
+9462000,"Bayreuth, Stadt",911,Oberfranken-Ost,9462,09462
+9463000,"Coburg, Stadt",912,Oberfranken-West,9463,09463
+9464000,"Hof, Stadt",911,Oberfranken-Ost,9464,09464
+9471000,Bamberg,912,Oberfranken-West,9471,09471
+9472000,Bayreuth,911,Oberfranken-Ost,9472,09472
+9473000,Coburg,912,Oberfranken-West,9473,09473
+9474000,Forchheim,912,Oberfranken-West,9474,09474
+9475000,Hof,911,Oberfranken-Ost,9475,09475
+9476000,Kronach,912,Oberfranken-West,9476,09476
+9477000,Kulmbach,911,Oberfranken-Ost,9477,09477
+9478000,Lichtenfels,912,Oberfranken-West,9478,09478
+9479000,Wunsiedel i.Fichtelgebirge,911,Oberfranken-Ost,9479,09479
+9561000,"Ansbach, Stadt",917,Westmittelfranken,9561,09561
+9562000,"Erlangen, Stadt",906,Industrieregion Mittelfranken,9562,09562
+9563000,"Fürth, Stadt",906,Industrieregion Mittelfranken,9563,09563
+9564000,"Nürnberg, Stadt",906,Industrieregion Mittelfranken,9564,09564
+9565000,"Schwabach, Stadt",906,Industrieregion Mittelfranken,9565,09565
+9571000,Ansbach,917,Westmittelfranken,9571,09571
+9572000,Erlangen-Höchstadt,906,Industrieregion Mittelfranken,9572,09572
+9573000,Fürth,906,Industrieregion Mittelfranken,9573,09573
+9574000,Nürnberger Land,906,Industrieregion Mittelfranken,9574,09574
+9575000,Neustadt a.d.Aisch-Bad Windsheim,917,Westmittelfranken,9575,09575
+9576000,Roth,906,Industrieregion Mittelfranken,9576,09576
+9577000,Weißenburg-Gunzenhausen,917,Westmittelfranken,9577,09577
+9661000,"Aschaffenburg, Stadt",903,Bayerischer Untermain,9661,09661
+9662000,"Schweinfurt, Stadt",909,Main-Rhön,9662,09662
+9663000,"Würzburg, Stadt",918,Würzburg,9663,09663
+9671000,Aschaffenburg,903,Bayerischer Untermain,9671,09671
+9672000,Bad Kissingen,909,Main-Rhön,9672,09672
+9673000,Rhön-Grabfeld,909,Main-Rhön,9673,09673
+9674000,Haßberge,909,Main-Rhön,9674,09674
+9675000,Kitzingen,918,Würzburg,9675,09675
+9676000,Miltenberg,903,Bayerischer Untermain,9676,09676
+9677000,Main-Spessart,918,Würzburg,9677,09677
+9678000,Schweinfurt,909,Main-Rhön,9678,09678
+9679000,Würzburg,918,Würzburg,9679,09679
+9761000,"Augsburg, Stadt",902,Augsburg,9761,09761
+9762000,"Kaufbeuren, Stadt",901,Allgäu,9762,09762
+9763000,"Kempten (Allgäu), Stadt",901,Allgäu,9763,09763
+9764000,"Memmingen, Stadt",904,Donau-Iller (BY),9764,09764
+9771000,Aichach-Friedberg,902,Augsburg,9771,09771
+9772000,Augsburg,902,Augsburg,9772,09772
+9773000,Dillingen a.d.Donau,902,Augsburg,9773,09773
+9774000,Günzburg,904,Donau-Iller (BY),9774,09774
+9775000,Neu-Ulm,904,Donau-Iller (BY),9775,09775
+9776000,Lindau (Bodensee),901,Allgäu,9776,09776
+9777000,Ostallgäu,901,Allgäu,9777,09777
+9778000,Unterallgäu,904,Donau-Iller (BY),9778,09778
+9779000,Donau-Ries,902,Augsburg,9779,09779
+9780000,Oberallgäu,901,Allgäu,9780,09780
+10041000,Regionalverband Saarbrücken,1001,Saar,10041,10041
+10042000,Merzig-Wadern,1001,Saar,10042,10042
+10043000,Neunkirchen,1001,Saar,10043,10043
+10044000,Saarlouis,1001,Saar,10044,10044
+10045000,Saarpfalz-Kreis,1001,Saar,10045,10045
+10046000,St. Wendel,1001,Saar,10046,10046
+11000000,"Berlin, Stadt",1101,Berlin,11000,11000
+12051000,"Brandenburg an der Havel, Stadt",1201,Havelland-Fläming,12051,12051
+12052000,"Cottbus, Stadt",1202,Lausitz-Spreewald,12052,12052
+12053000,"Frankfurt (Oder), Stadt",1203,Oderland-Spree,12053,12053
+12054000,"Potsdam, Stadt",1201,Havelland-Fläming,12054,12054
+12060000,Barnim,1205,Uckermark-Barnim,12060,12060
+12061000,Dahme-Spreewald,1202,Lausitz-Spreewald,12061,12061
+12062000,Elbe-Elster,1202,Lausitz-Spreewald,12062,12062
+12063000,Havelland,1201,Havelland-Fläming,12063,12063
+12064000,Märkisch-Oderland,1203,Oderland-Spree,12064,12064
+12065000,Oberhavel,1204,Prignitz-Oberhavel,12065,12065
+12066000,Oberspreewald-Lausitz,1202,Lausitz-Spreewald,12066,12066
+12067000,Oder-Spree,1203,Oderland-Spree,12067,12067
+12068000,Ostprignitz-Ruppin,1204,Prignitz-Oberhavel,12068,12068
+12069000,Potsdam-Mittelmark,1201,Havelland-Fläming,12069,12069
+12070000,Prignitz,1204,Prignitz-Oberhavel,12070,12070
+12071000,Spree-Neiße,1202,Lausitz-Spreewald,12071,12071
+12072000,Teltow-Fläming,1201,Havelland-Fläming,12072,12072
+12073000,Uckermark,1205,Uckermark-Barnim,12073,12073
+13001000,"Greifswald, Stadt",1303,Vorpommern,13001,13001
+13002000,"Neubrandenburg, Stadt",1301,Mecklenburgische Seenplatte,13002,13002
+13003000,"Rostock, Stadt",1302,Mittleres Mecklenburg/Rostock,13003,13003
+13004000,"Schwerin, Stadt",1304,Westmecklenburg,13004,13004
+13005000,"Stralsund, Stadt",1303,Vorpommern,13005,13005
+13006000,"Wismar, Stadt",1304,Westmecklenburg,13006,13006
+13051000,Bad Doberan,1302,Mittleres Mecklenburg/Rostock,13051,13051
+13052000,Demmin,1301,Mecklenburgische Seenplatte,13052,13052
+13053000,Güstrow,1302,Mittleres Mecklenburg/Rostock,13053,13053
+13054000,Ludwigslust,1304,Westmecklenburg,13054,13054
+13055000,Mecklenburg-Strelitz,1301,Mecklenburgische Seenplatte,13055,13055
+13056000,Müritz,1301,Mecklenburgische Seenplatte,13056,13056
+13057000,Nordvorpommern,1303,Vorpommern,13057,13057
+13058000,Nordwestmecklenburg,1304,Westmecklenburg,13058,13058
+13059000,Ostvorpommern,1303,Vorpommern,13059,13059
+13060000,Parchim,1304,Westmecklenburg,13060,13060
+13061000,Rügen,1303,Vorpommern,13061,13061
+13062000,Uecker-Randow,1303,Vorpommern,13062,13062
+14511000,"Chemnitz, Stadt",1403,Südsachsen,14511,14511
+14521000,Erzgebirgskreis,1403,Südsachsen,14521,14521
+14522000,Mittelsachsen,1403,Südsachsen,14522,14522
+14523000,Vogtlandkreis,1403,Südsachsen,14523,14523
+14524000,Zwickau,1403,Südsachsen,14524,14524
+14612000,"Dresden, Stadt",1401,Oberes Elbtal/Osterzgebirge,14612,14612
+14625000,Bautzen,1402,Oberlausitz-Niederschlesien,14625,14625
+14626000,Görlitz,1402,Oberlausitz-Niederschlesien,14626,14626
+14627000,Meißen,1401,Oberes Elbtal/Osterzgebirge,14627,14627
+14628000,Sächsische Schweiz-Osterzgebirge,1401,Oberes Elbtal/Osterzgebirge,14628,14628
+14713000,"Leipzig, Stadt",1404,Westsachsen,14713,14713
+14729000,Leipzig,1404,Westsachsen,14729,14729
+14730000,Nordsachsen,1404,Westsachsen,14730,14730
+15001000,"Dessau-Roßlau, Stadt",1502,Anhalt-Bitterfeld-Wittenberg,15001,15001
+15002000,"Halle (Saale), Stadt",1503,Halle/S.,15002,15002
+15003000,"Magdeburg, Stadt",1504,Magdeburg,15003,15003
+15081000,Altmarkkreis Salzwedel,1501,Altmark,15081,15081
+15082000,Anhalt-Bitterfeld,1502,Anhalt-Bitterfeld-Wittenberg,15082,15082
+15083000,Börde,1504,Magdeburg,15083,15083
+15084000,Burgenlandkreis,1503,Halle/S.,15084,15084
+15085000,Harz,1504,Magdeburg,15085,15085
+15086000,Jerichower Land,1504,Magdeburg,15086,15086
+15087000,Mansfeld-Südharz,1503,Halle/S.,15087,15087
+15088000,Saalekreis,1503,Halle/S.,15088,15088
+15089000,Salzlandkreis,1504,Magdeburg,15089,15089
+15090000,Stendal,1501,Altmark,15090,15090
+15091000,Wittenberg,1502,Anhalt-Bitterfeld-Wittenberg,15091,15091
+16051000,"Erfurt, Stadt",1601,Mittelthüringen,16051,16051
+16052000,"Gera, Stadt",1603,Ostthüringen,16052,16052
+16053000,"Jena, Stadt",1603,Ostthüringen,16053,16053
+16054000,"Suhl, Stadt",1604,Südthüringen,16054,16054
+16055000,"Weimar, Stadt",1601,Mittelthüringen,16055,16055
+16056000,"Eisenach, Stadt",1604,Südthüringen,16056,16056
+16061000,Eichsfeld,1602,Nordthüringen,16061,16061
+16062000,Nordhausen,1602,Nordthüringen,16062,16062
+16063000,Wartburgkreis,1604,Südthüringen,16063,16063
+16064000,Unstrut-Hainich-Kreis,1602,Nordthüringen,16064,16064
+16065000,Kyffhäuserkreis,1602,Nordthüringen,16065,16065
+16066000,Schmalkalden-Meiningen,1604,Südthüringen,16066,16066
+16067000,Gotha,1601,Mittelthüringen,16067,16067
+16068000,Sömmerda,1601,Mittelthüringen,16068,16068
+16069000,Hildburghausen,1604,Südthüringen,16069,16069
+16070000,Ilm-Kreis,1601,Mittelthüringen,16070,16070
+16071000,Weimarer Land,1601,Mittelthüringen,16071,16071
+16072000,Sonneberg,1604,Südthüringen,16072,16072
+16073000,Saalfeld-Rudolstadt,1603,Ostthüringen,16073,16073
+16074000,Saale-Holzland-Kreis,1603,Ostthüringen,16074,16074
+16075000,Saale-Orla-Kreis,1603,Ostthüringen,16075,16075
+16076000,Greiz,1603,Ostthüringen,16076,16076
+16077000,Altenburger Land,1603,Ostthüringen,16077,16077

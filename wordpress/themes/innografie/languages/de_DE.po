@@ -1,0 +1,893 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Twelve/fbpsych v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-24 13:29+0100\n"
+"PO-Revision-Date: 2015-04-27 17:52:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:88
+#@ twentytwelve
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:92
+#@ twentytwelve
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: account.php:12
+#@ twentytwelve
+msgid "FBP_PROJECT_ACCOUNT"
+msgstr "Ihr Organisations-Account"
+
+#: account.php:15
+#@ twentytwelve
+msgid "FBP_PROJECT_ACCOUNT_INFORMATION"
+msgstr "Hier können Sie den Namen Ihrer Organisation bearbeiten sowie Ihr Passwort ändern:<br/>"
+
+#: account.php:24
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_PASSWORDS_MATCH"
+msgstr "Achtung, die beiden Passwörter stimmen nicht überein"
+
+#: account.php:55
+#@ twentytwelve
+msgid "FBP_PROJECT_ACCOUNT_DELETE"
+msgstr "Projektseite der Organisation löschen"
+
+#: account.php:64
+#@ twentytwelve
+msgid "FBP_PROJECT_ACCOUNT_DELETE_REALLY"
+msgstr "Möchten Sie die Projektseite wirklich löschen?"
+
+#: content-aside.php:13 content-aside.php:20 content-image.php:17
+#: content-link.php:18 content.php:23
+#, php-format
+#@ twentytwelve
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-aside.php:15 content-image.php:13 content-link.php:14
+#: content.php:39
+#@ twentytwelve
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content.php:28
+#@ twentytwelve
+msgid "Leave a reply"
+msgstr ""
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content.php:28
+#@ twentytwelve
+msgid "1 Reply"
+msgstr ""
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content.php:28
+#@ twentytwelve
+msgid "% Replies"
+msgstr ""
+
+#: content-aside.php:26 content-image.php:26 content-link.php:24
+#: content-page.php:21 content.php:46 functions.php:333 image.php:37
+#@ twentytwelve
+msgid "Edit"
+msgstr ""
+
+#: content-link.php:12
+#@ twentytwelve
+msgid "Link"
+msgstr ""
+
+#: content-none.php:13 index.php:52 page-templates/index.php:51
+#@ twentytwelve
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17 index.php:56 page-templates/index.php:55
+#@ twentytwelve
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: content-page.php:18 content.php:40 image.php:92
+#@ twentytwelve
+msgid "Pages:"
+msgstr ""
+
+#: content.php:14
+#@ twentytwelve
+msgid "Featured post"
+msgstr ""
+
+#: content.php:53
+#, php-format
+#@ twentytwelve
+msgid "About %s"
+msgstr ""
+
+#: content.php:57
+#, php-format
+#@ twentytwelve
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:88
+#@ twentytwelve
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:144
+#@ twentytwelve
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:149
+#@ twentytwelve
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:205
+#, php-format
+#@ twentytwelve
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:230
+#@ twentytwelve
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:232
+#@ twentytwelve
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr ""
+
+#: functions.php:240
+#@ twentytwelve
+msgid "First Front Page Widget Area"
+msgstr ""
+
+#: functions.php:242 functions.php:252
+#@ twentytwelve
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr ""
+
+#: functions.php:250
+#@ twentytwelve
+msgid "Second Front Page Widget Area"
+msgstr ""
+
+#: functions.php:274 single.php:20
+#@ twentytwelve
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:275
+#@ twentytwelve
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:276
+#@ twentytwelve
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:301
+#@ twentytwelve
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:301
+#@ twentytwelve
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:316
+#@ twentytwelve
+msgid "Post author"
+msgstr ""
+
+#: functions.php:322
+#, php-format
+#@ twentytwelve
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:328
+#@ twentytwelve
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:337
+#@ twentytwelve
+msgid "Reply"
+msgstr ""
+
+#: functions.php:356 functions.php:359
+#@ twentytwelve
+msgid ", "
+msgstr ""
+
+#: functions.php:370
+#, php-format
+#@ twentytwelve
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:376
+#, php-format
+#@ twentytwelve
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: functions.php:378
+#, php-format
+#@ twentytwelve
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: functions.php:380
+#, php-format
+#@ twentytwelve
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: image.php:26
+#, php-format
+#@ twentytwelve
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr ""
+
+#: image.php:41
+#@ twentytwelve
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:42
+#@ twentytwelve
+msgid "Next &rarr;"
+msgstr ""
+
+#: index.php:41 page-templates/index.php:40
+#@ twentytwelve
+msgid "No posts to display"
+msgstr ""
+
+#: index.php:45 page-templates/index.php:44
+#, php-format
+#@ twentytwelve
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: single.php:21
+#@ twentytwelve
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: single.php:22
+#@ twentytwelve
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: surveyDetail.php:98 surveyDetail.php:283 surveyDetail.php:293
+#: surveyDetail.php:302
+#@ twentytwelve
+msgid "FBP_PROJECT_TITLE_PAGE"
+msgstr "Link und Ergebnisbericht"
+
+#: surveyDetail.php:101
+#@ twentytwelve
+msgid "FBP_PROJECT_SURVEY_INFORMATION"
+msgstr "Hier erhalten Sie den <b>Link</b> zur ausgewählten Befragung. Zudem haben Sie hier die Möglichkeit, zu sehen, wie viele Personen bisher insgesamt teilgenommen haben, Mailvorlagen auszuwählen oder die Befragung zu löschen. <br/><br/> Den <b>automatischen Ergebnisbericht für Ihre Organisation</b> können Sie nach Ende des Befragungszeitraums durch den Button am Ende der Seite anfordern.<br/><br/>"
+
+#: surveyDetail.php:110
+#@ twentytwelve
+msgid "FBP_PROJECT_SURVEY_EXPIRED"
+msgstr "Umfrage beendet."
+
+#: surveyDetail.php:110
+#@ twentytwelve
+msgid "FBP_PROJECT_SURVEY_REACTIVATE"
+msgstr "Umfrage erneut aktivieren."
+
+#: surveyDetail.php:112
+#@ twentytwelve
+msgid "FBP_PROJECT_SURVEY_EXPIRE"
+msgstr "Umfrage beenden."
+
+#: surveyDetail.php:119
+#@ twentytwelve
+msgid "FBP_PROJECT_GOTO_SURVEY"
+msgstr "Link zur Befragung:"
+
+#: surveyDetail.php:165
+#@ twentytwelve
+msgid "FBP_PROJECT_CREATE_MAIL_INTRODUCTION"
+msgstr "<br><b>Diese Mailvorlage können Sie für die interne Kommunikation einsetzen:</b><br><br>"
+
+#: surveyDetail.php:208
+#@ twentytwelve
+msgid "FBP_PROJECT_SURVEY_EVALUATION_MAIN"
+msgstr ""
+"Nach Beendigung des Befragungszeitraums haben Sie als Projektleitung die Möglichkeit, hier den gewünschten Ergebnisbericht zu erhalten, in dem Sie auf den Button „Ergebnisbericht abrufen“ klicken. </br>\n"
+"Der Bericht wird mit den aktuellen Befragungsdaten generiert und Ihnen anschließend als Link zur Verfügung gestellt. </br> <b>Bitte beachten Sie, dass diese Auswertung einen kurzen Augenblick dauern kann.</b></br></br>"
+
+#: surveyDetail.php:210
+#@ twentytwelve
+msgid "FBP_PROJECT_SURVEY_EVALUATION_TITLE"
+msgstr "Ergebnisbericht"
+
+#: surveyDetail.php:226
+#@ twentytwelve
+msgid "FBP_PROJECT_BUTTON_EVALUATE"
+msgstr "Ergebnisbericht abrufen"
+
+#: surveyDetail.php:243
+#@ twentytwelve
+msgid "FBP_PROJECT_BUTTON_SURVEY_DELETE"
+msgstr "Befragung löschen"
+
+#: surveyDetail.php:286
+#@ twentytwelve
+msgid "FBP_PROJECT_RESULTS_MAIN"
+msgstr "Ergebnisbericht"
+
+#: surveyDetail.php:289
+#@ twentytwelve
+msgid "FBP_PROJECT_RESULTS"
+msgstr "Ergebnisbericht in neuem Fenster/Tab öffnen"
+
+#: surveyDetail.php:296
+#@ twentytwelve
+msgid "FBP_PROJECT_EVALUATION_NO_ANSWERS"
+msgstr "Eine Auswertung der Befragung ist leider nicht möglich"
+
+#: surveyDetail.php:305
+#@ twentytwelve
+msgid "FBP_PROJECT_EVALUATION_ERROR"
+msgstr "Bei der Erstellung des Ergebnisberichts ist ein Fehler aufgetreten. Bitte wenden Sie sich per Email an das Innografie-Team (<a href='mailto:innografie@uni-hamburg.de'> innografie@uni-hamburg.de</a>)."
+
+#: wp-signup.php:71
+#@ default
+msgid "Site Name:"
+msgstr ""
+
+#: wp-signup.php:73
+#@ default
+msgid "Site Domain:"
+msgstr ""
+
+#: wp-signup.php:86
+#@ default
+msgid "sitename"
+msgstr ""
+
+#: wp-signup.php:88
+#@ default
+msgid "domain"
+msgstr ""
+
+#: wp-signup.php:89
+#, php-format
+#@ default
+msgid "Your address will be %s."
+msgstr ""
+
+#: wp-signup.php:89
+#@ default
+msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
+msgstr ""
+
+#: wp-signup.php:94
+#@ default
+msgid "Site Title:"
+msgstr ""
+
+#: wp-signup.php:103
+#@ default
+msgid "Privacy:"
+msgstr ""
+
+#: wp-signup.php:104
+#@ default
+msgid "Allow search engines to index this site."
+msgstr ""
+
+#: wp-signup.php:108
+#@ default
+msgid "Yes"
+msgstr ""
+
+#: wp-signup.php:112
+#@ default
+msgid "No"
+msgstr ""
+
+#: wp-signup.php:131
+#@ default
+msgid "Username:"
+msgstr ""
+
+#: wp-signup.php:136
+#@ default
+msgid "(Must be at least 4 characters, letters and numbers only.)"
+msgstr ""
+
+#: wp-signup.php:139
+#@ default
+msgid "Email&nbsp;Address:"
+msgstr ""
+
+#: wp-signup.php:143
+#@ default
+msgid "We send your registration email to this address. (Double-check your email address before continuing.)"
+msgstr ""
+
+#: wp-signup.php:169
+#, php-format
+#@ default
+msgid "Get <em>another</em> %s site in seconds"
+msgstr ""
+
+#: wp-signup.php:172
+#@ default
+msgid "There was a problem, please correct the form below and try again."
+msgstr ""
+
+#: wp-signup.php:175
+#, php-format
+#@ default
+msgid "Welcome back, %s. By filling out the form below, you can <strong>add another site to your account</strong>. There is no limit to the number of sites you can have, so create to your heart&#8217;s content, but write responsibly!"
+msgstr ""
+
+#: wp-signup.php:181
+#@ default
+msgid "Sites you are already a member of:"
+msgstr ""
+
+#: wp-signup.php:190
+#@ default
+msgid "If you&#8217;re not going to use a great site domain, leave it for a new user. Now have at it!"
+msgstr ""
+
+#: wp-signup.php:225
+#, php-format
+#@ default
+msgid "The site %s is yours."
+msgstr ""
+
+#: wp-signup.php:227
+#, php-format
+#@ default
+msgid "<a href=\"http://%1$s\">http://%2$s</a> is your new site. <a href=\"%3$s\">Log in</a> as &#8220;%4$s&#8221; using your existing password."
+msgstr ""
+
+#: wp-signup.php:249
+#, php-format
+#@ default
+msgid "Get your own %s account in seconds"
+msgstr ""
+
+#: wp-signup.php:262
+#@ default
+msgid "Gimme a site!"
+msgstr ""
+
+#: wp-signup.php:265
+#@ default
+msgid "Just a username, please."
+msgstr ""
+
+#: wp-signup.php:296
+#, php-format
+#@ default
+msgid "%s is your new username"
+msgstr ""
+
+#: wp-signup.php:297
+#@ default
+msgid "But, before you can start using your new username, <strong>you must activate it</strong>."
+msgstr ""
+
+#: wp-signup.php:298 wp-signup.php:370
+#, php-format
+#@ default
+msgid "Check your inbox at <strong>%s</strong> and click the link given."
+msgstr ""
+
+#: wp-signup.php:299
+#@ default
+msgid "If you do not activate your username within two days, you will have to sign up again."
+msgstr ""
+
+#: wp-signup.php:367
+#, php-format
+#@ default
+msgid "Congratulations! Your new site, %s, is almost ready."
+msgstr ""
+
+#: wp-signup.php:369
+#@ default
+msgid "But, before you can start using your site, <strong>you must activate it</strong>."
+msgstr ""
+
+#: wp-signup.php:371
+#@ default
+msgid "If you do not activate your site within two days, you will have to sign up again."
+msgstr ""
+
+#: wp-signup.php:372
+#@ default
+msgid "Still waiting for your email?"
+msgstr ""
+
+#: wp-signup.php:374
+#@ default
+msgid "If you haven&#8217;t received your email yet, there are a number of things you can do:"
+msgstr ""
+
+#: wp-signup.php:376
+#@ default
+msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
+msgstr ""
+
+#: wp-signup.php:377
+#@ default
+msgid "Check the junk or spam folder of your email client. Sometime emails wind up there by mistake."
+msgstr ""
+
+#: wp-signup.php:378
+#, php-format
+#@ default
+msgid "Have you entered your email correctly?  You have entered %s, if it&#8217;s incorrect, you will not receive your email."
+msgstr ""
+
+#: wp-signup.php:393
+#@ default
+msgctxt "Multisite active signup type"
+msgid "all"
+msgstr ""
+
+#: wp-signup.php:394
+#@ default
+msgctxt "Multisite active signup type"
+msgid "none"
+msgstr ""
+
+#: wp-signup.php:395
+#@ default
+msgctxt "Multisite active signup type"
+msgid "blog"
+msgstr ""
+
+#: wp-signup.php:396
+#@ default
+msgctxt "Multisite active signup type"
+msgid "user"
+msgstr ""
+
+#: wp-signup.php:399
+#, php-format
+#@ default
+msgid "Greetings Site Administrator! You are currently allowing &#8220;%s&#8221; registrations. To change or disable registration go to your <a href=\"%s\">Options page</a>."
+msgstr ""
+
+#: wp-signup.php:405
+#@ default
+msgid "Registration has been disabled."
+msgstr ""
+
+#: wp-signup.php:408
+#, php-format
+#@ default
+msgid "You must first <a href=\"%s\">log in</a>, and then you can create a new site."
+msgstr ""
+
+#: wp-signup.php:416
+#@ default
+msgid "User registration has been disabled."
+msgstr ""
+
+#: wp-signup.php:422
+#@ default
+msgid "Site registration has been disabled."
+msgstr ""
+
+#: wp-signup.php:436
+#@ default
+msgid "Sorry, new registrations are not allowed at this time."
+msgstr ""
+
+#: wp-signup.php:438
+#@ default
+msgid "You are logged in already. No need to register again!"
+msgstr ""
+
+#: wp-signup.php:444
+#, php-format
+#@ default
+msgid "<p><em>The site you were looking for, <strong>%s</strong> does not exist, but you can create it now!</em></p>"
+msgstr ""
+
+#: wp-signup.php:446
+#, php-format
+#@ default
+msgid "<p><em>The site you were looking for, <strong>%s</strong>, does not exist.</em></p>"
+msgstr ""
+
+#: page-templates/index.php:74 page-templates/index.php:223
+#: page-templates/index.php:390 page-templates/index.php:439
+#: views/survey-create.twig:27 views/survey-create.twig:29
+#: views/survey-create.twig:31 views/survey-create.twig:33
+#@ twentytwelve
+msgid "FBP_PROJECT_TITLE_FIRST"
+msgstr "Ihre Projektseite"
+
+#: page-templates/index.php:77 views/survey-create.twig:37
+#@ twentytwelve
+msgid "FBP_PROJECT_MAIN_WELCOME"
+msgstr "Willkommen auf Ihrer Projektseite. </br> </br>Sie haben hier die Möglichkeit, eine neue Befragung für Ihr Unternehmen bzw. Organisation anzulegen oder bereits bestehende Befragungen zu verwalten. Um eine <b>neue Befragung</b> anzulegen, können Sie bei „Jetzt Befragung erstellen“ Ihre Innografie-Befragung durch Klicken auf den Button „erstellen“ generieren.</br> </br> Eine Übersicht der bereits angelegten bzw. durchgeführten Befragungen befindet sich in der rechten Leiste.</br></br>"
+
+#: page-templates/index.php:80 views/survey-create.twig:40
+#@ twentytwelve
+msgid "FBP_PROJECT_CREATE_SURVEY"
+msgstr "Jetzt Befragung erstellen"
+
+#: page-templates/index.php:223 views/survey-create.twig:31
+#@ twentytwelve
+msgid "FBP_PROJECT_TITLE_PARTICIPANTS"
+msgstr "Teilnehmer definieren"
+
+#: page-templates/index.php:226 views/survey-create.twig:102
+#@ twentytwelve
+msgid "FBP_PROJECT_COMPANY_DATA"
+msgstr ""
+"Um das Erstellen Ihrer Befragung abschließen zu können, werden hier Informationen zur <b>Anzahl der Befragungsteilnehmer insgesamt</b> und zu den Teams Ihres Unternehmes (z.B. Buchhaltung, Marketing, Einkauf etc.) benötigt.</br></br>Um die Anonymität der Teammitglieder zu gewährleisten, können nur Teams mit 6 oder mehr Mitgliedern befragt werden. Bitte geben Sie in der entsprechenden Maske die <b>Namen der teilnehmenden Teams</b> an. </br> Die Teilnehmer der Befragung werden später angeben, zu welchem der von Ihnen angelegten Teams sie gehören.  </br> </br> Teams mit weniger als 6 Mitgliedern können selbstverständlich auch an der Befragung teilnehmen, für sie erfolgt jedoch keine teamspezifische Auswertung der Befragung. Diese Personen müssen in der Gesamtanzahl der befragten Personen enthalten sein und gehen auch in die Gesamtauswertung ein.\n"
+"<br/>Wenn Sie auf <b>„weiter“</b> klicken, wird die auf Ihr Unternehmen bzw. Organisation zugeschnittene Befragung erstellt. Dies kann wenige Sekunden in Anspruch nehmen.<br/><br/>"
+
+#: page-templates/index.php:260
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_NO_TEAMS"
+msgstr "Bitte geben Sie Teams an"
+
+#: page-templates/index.php:263 views/survey-create.twig:143
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_NO_TEAM_TITLE"
+msgstr "Bitte geben Sie einen Namen für das Team an"
+
+#: page-templates/index.php:266
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_TEAM_THRESHOLD"
+msgstr "Bitte beachten Sie, dass nur Teams mit mindestens 6 Teilnehmern hier eingegeben werden können."
+
+#: page-templates/index.php:269
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_TEAM_NOT_NUMERIC"
+msgstr "Bitte geben Sie eine Zahl an"
+
+#: page-templates/index.php:272
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_TEAM_NEGATIV"
+msgstr "Bitte geben Sie eine positive Zahl an"
+
+#: page-templates/index.php:296 views/survey-create.twig:170
+#@ twentytwelve
+msgid "FBP_PROJECT_CREATE_TEAM"
+msgstr "Team"
+
+#: page-templates/index.php:298 views/survey-create.twig:170
+#@ twentytwelve
+msgid "FBP_ADD"
+msgstr "hinzufügen"
+
+#: page-templates/index.php:325 page-templates/index.php:345
+#@ twentytwelve
+msgid "FBP_PROJECT_COUNT_TEAM_MEMBER"
+msgstr "&nbsp;"
+
+#: page-templates/index.php:329 page-templates/index.php:349
+#: views/survey-create.twig:191 views/survey-create.twig:209
+#@ twentytwelve
+msgid "FBP_REMOVE"
+msgstr "entfernen"
+
+#: page-templates/index.php:390
+#@ twentytwelve
+msgid "FBP_PROJECT_TITLE_QUESTION_GROUPS"
+msgstr ""
+
+#: page-templates/index.php:394
+#@ twentytwelve
+msgid "FBP_PROJECT_COMPANY_STRUCTURE"
+msgstr ""
+
+#: page-templates/index.php:439
+#@ twentytwelve
+msgid "FBP_PROJECT_TITLE_FINAL"
+msgstr "Link"
+
+#: page-templates/index.php:442
+#@ twentytwelve
+msgid "FBP_PROJECT_CREATE_FINAL"
+msgstr ""
+"Die auf Ihr Unternehmen zugeschnittene Befragung ist nun erstellt. Nachfolgend finden Sie einen Link, den Sie an alle Befragungsteilnehmer versenden können. Sie können diesen Link einfach kopieren und in eine E-Mail einfügen, um ihn an alle Personen zu versenden, die an der Befragung teilnehmen dürfen. Die Erfahrung hat gezeigt, dass es günstig ist, einen <b>Befragungszeitraum</b> zu definieren und den Teilnehmern mitzuteilen.<br/>\n"
+"Zudem erhalten Sie nützliche Hinweise und Vorlagen, die Sie verwenden können, um die Teilnehmer in Ihrem Unternehmen zu der Befragung einzuladen (z.B. Vorlage für einen E-Mail-Text). Hat der Link die Teilnehmer erreicht, brauchen diese nur noch auf den Link zu klicken und gelangen automatisch zu der angelegten Befragung.<br/>\n"
+"Bitte vergessen Sie nicht, auch selbst an der Befragung teilzunehmen. Sie erhalten als &quot;Projektleiter Innografie-Tool&quot; Fragen, die speziell an Sie gerichtet sind.<br/>\n"
+"In der rechten Leiste wird Ihnen fortan angezeigt, wie viele der von Ihnen eingeladenen Personen bereits an der Befragung teilgenommen haben.<br/>\n"
+
+#: views/survey-create.twig:29
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_TITLE_TEMPLATE"
+msgstr "Vorlagenauswahl"
+
+#: views/survey-create.twig:33
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_TITLE_CONFIRM"
+msgstr "Befragung anlegen"
+
+#: views/survey-create.twig:63
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_TEMPLATE"
+msgstr "&nbsp;"
+
+#: views/survey-create.twig:75
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_TEMPLATE_SHORT"
+msgstr "Auswahl einer vorhandenen Befragungsstruktur"
+
+#: views/survey-create.twig:77
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_TEMPLATE_DESCRIPTION"
+msgstr ""
+"Sie können sich an dieser Stelle entscheiden, ob Sie eine <b>neue Befragung</b> oder ein <b>Folgebefragung</b> durchführen wollen.</br>\n"
+"Wenn Sie eine <b>Folgebefragung</b> auf Basis einer vorangegangenen Befragung durchführen wollen, wählen Sie diese bitte als Vorlage aus, um die angelegten Teams und die Teilnehmerzahl zu importieren, und klicken Sie dann auf &quot;aus Vorlage erstellen&quot;.\n"
+"</br>\n"
+"Wenn eine <b>neue Befragung</b> angelegt werden soll, klicken Sie bitte auf &quot;weiter ohne Vorlage&quot;."
+
+#: views/survey-create.twig:79
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_TEMPLATE_SELECT"
+msgstr "Vorangegangenen Befragungen:"
+
+#: views/survey-create.twig:119
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_NO_TOTAL"
+msgstr "Bitte geben Sie Teams an"
+
+#: views/survey-create.twig:122
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_TOTAL_NOT_NUMERIC"
+msgstr "Bitte geben Sie eine Zahl an"
+
+#: views/survey-create.twig:125
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_TOTAL_NEGATIV"
+msgstr "Bitte geben Sie eine positive Zahl an"
+
+#: views/survey-create.twig:128
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_TOTAL_LIMIT"
+msgstr "Bitte geben Sie Teams an"
+
+#: views/survey-create.twig:134
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_TEAM_THRESHOLD_NUMERIC"
+msgstr "Bitte beachten Sie, dass nur Teams mit mindestens 6 Teilnehmern hier eingegeben werden können."
+
+#: views/survey-create.twig:137
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_ERROR_TEAM_THRESHOLD_MINIMUMS"
+msgstr "Bitte beachten Sie, dass nur Teams mit mindestens 6 Teilnehmern hier eingegeben werden können."
+
+#: views/survey-create.twig:149
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_PARTICIPANTS_SHORT"
+msgstr "Teilnehmer definieren"
+
+#: views/survey-create.twig:151
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_COUNT_TOTAL_DESC"
+msgstr "Bitte geben Sie an, wie viele Personen insgesamt (inklusive Ihrer Person) befragt werden sollen."
+
+#: views/survey-create.twig:153
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_COUNT_TOTAL"
+msgstr "Anzahl Teilnehmer:"
+
+#: views/survey-create.twig:160
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_COUNT_TOTAL_HELP"
+msgstr "Für eine Auswertung auf organisationaler Ebene müssen <b>mindestens 6 Personen</b> erfolgreich an der Befragung teilnehmen."
+
+#: views/survey-create.twig:165
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_TEAMS_SHORT"
+msgstr "Teams definieren"
+
+#: views/survey-create.twig:167
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_TEAMS_DESCRIPTION"
+msgstr "Bitte geben Sie alle Teams, die Sie befragen wollen und für die Sie eine Auswertung erhalten möchten, an."
+
+#: views/survey-create.twig:178
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_TEAM_HELP"
+msgstr "Für eine Auswertung auf Teamebene müssen <b>mindestens 6 Personen je Team</b> erfolgreich an der Befragung teilnehmen."
+
+#: views/survey-create.twig:227
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_CONFIRM"
+msgstr "&nbsp;"
+
+#: views/survey-create.twig:241
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_CONFIRM_SHORT"
+msgstr "Überprüfung der angegebenen Daten"
+
+#: views/survey-create.twig:243
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_CONFIRM_DESCRIPTION"
+msgstr "Bitte kontrollieren Sie die eingegebenen Daten bevor sie die Befragung anlegen. </br>Nach dem Anlegen der Befragung sind keine Änderungen mehr möglich."
+
+#: views/survey-create.twig:246
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_CONFIRM_FORM_TITLE"
+msgstr "Titel der Befragung:"
+
+#: views/survey-create.twig:254
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_CONFIRM_FORM_COUNT"
+msgstr "Gesamtanzahl der Teilnehmer:"
+
+#: views/survey-create.twig:263
+#, fuzzy
+#@ twentytwelve
+msgid "FBP_PROJECT_CONFIRM_FORM_TEAMS"
+msgstr "Angelegte Teams:"
+

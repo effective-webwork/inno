@@ -1,0 +1,7 @@
+<?php
+    define("LS_ADMIN_PW", "%LIMESURVEY_ADMIN_PASSWORD%");
+    define("LS_RPC_URL", "%LIMESURVEY_URL%/index.php/admin/remotecontrol");
+    define("LS_RUN_SURVEY_URL", "%LIMESURVEY_URL%/index.php/survey/index/sid/%surveyId%/token/%token%/newtest/Y");
+    
+    define("FBP_DEBUG", FALSE);
+    define("LS_ANSWERS", "");

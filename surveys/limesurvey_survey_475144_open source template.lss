@@ -1,0 +1,2395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>177</DBVersion>
+ <languages>
+  <language>en</language>
+  <language>de</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[99550]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Since birth]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99550]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[seit meiner Geburt]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99548]]></qid>
+    <code><![CDATA[kgT]]></code>
+    <answer><![CDATA[keinem genannten Team]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99548]]></qid>
+    <code><![CDATA[kT]]></code>
+    <answer><![CDATA[keinem Team]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99548]]></qid>
+    <code><![CDATA[kgT]]></code>
+    <answer><![CDATA[no mentioned Team]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99548]]></qid>
+    <code><![CDATA[kT]]></code>
+    <answer><![CDATA[no Team]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99546]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[German]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99546]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[deutsch]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99544]]></qid>
+    <code><![CDATA[grp2]]></code>
+    <answer><![CDATA[Mitarbeiter/Führungskraft]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99544]]></qid>
+    <code><![CDATA[grp4]]></code>
+    <answer><![CDATA[Initiator/in der Befragung ]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99544]]></qid>
+    <code><![CDATA[grp2]]></code>
+    <answer><![CDATA[Employee/Leader]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99544]]></qid>
+    <code><![CDATA[grp4]]></code>
+    <answer><![CDATA[survey - initiator]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99555]]></qid>
+    <code><![CDATA[0]]></code>
+    <answer><![CDATA[No]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99555]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Yes]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99555]]></qid>
+    <code><![CDATA[0]]></code>
+    <answer><![CDATA[nein]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99555]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[ja]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99525]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Female]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99525]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[Male]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99525]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[weiblich]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99525]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[männlich]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Less than 20]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[21 - 50]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[51 - 250]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[251 - 500]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[More than 500]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[weniger als 20 MitarbeiterInnen]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[21-50 MitarbeiterInnen]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[51-250 MitarbeiterInnen]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[251-500 MitarbeiterInnen]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[über 500 MitarbeiterInnen]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[keine Ausbildung]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[abgeschlossene Berufsausbildung]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[Meister/Techniker]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[Fachhochschulabschluss]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[Hochschulabschluss]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[6]]></code>
+    <answer><![CDATA[Promotion]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[no education]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[completed professional education ]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[foremen / engineer]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[polytechnic degree]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[university degree]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <code><![CDATA[6]]></code>
+    <answer><![CDATA[doctorate]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Does not ever apply]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[Seldom applies]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[Partially applies/Partially does not apply]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[Often applies]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[Always applies]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[trifft überhaupt nicht zu]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[trifft eher nicht zu]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[teils/teils]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[trifft eher zu]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[trifft völlig zu]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[Land- und Forstwirtschaft, Fischerei und Fischzucht]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[10]]></code>
+    <answer><![CDATA[Grundstücks- und Wohnungswesen, Vermietung beweglicher Sachen, Erbringung von freiberuflichen, wissenschaftlichen, technischen und sonstigen wirtschaftlichen Dienstleistungen]]></answer>
+    <sortorder><![CDATA[10]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[11]]></code>
+    <answer><![CDATA[Öffentliche Verwaltung, Verteidigung; Sozialversicherung]]></answer>
+    <sortorder><![CDATA[11]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[12]]></code>
+    <answer><![CDATA[Erziehung und Unterricht]]></answer>
+    <sortorder><![CDATA[12]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[13]]></code>
+    <answer><![CDATA[Gesundheits-, Veterinär- und Sozialwesen]]></answer>
+    <sortorder><![CDATA[13]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[14]]></code>
+    <answer><![CDATA[Erbringung von sonstigen öffentlichen und persönlichen Dienstleistungen]]></answer>
+    <sortorder><![CDATA[14]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[Bergbau und Gewinnung von Steinen und Erden]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[Verarbeitendes Gewerbe / Herstellung von Waren]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[Energieversorgung, Wasserversorgung; Abwasser- und Abfallentsorgung und Beseitigung von Umweltverschmutzungen]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[Baugewerbe / Bau]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[6]]></code>
+    <answer><![CDATA[Handel mit, Instandhaltung und Reparatur von Kraftfahrzeugen und Gebrauchsgütern]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[7]]></code>
+    <answer><![CDATA[Gastgewerbe / Beherbergung und Gastronomie]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[8]]></code>
+    <answer><![CDATA[Verkehr und Lagerei / Nachrichtenübermittlung, Information und Kommunikation]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[9]]></code>
+    <answer><![CDATA[Kredit- und Versicherungsgewerbe, Erbringung von Finanz- und Versicherungsdienstleistungen]]></answer>
+    <sortorder><![CDATA[9]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[1]]></code>
+    <answer><![CDATA[agriculture, forestry and fishing]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[10]]></code>
+    <answer><![CDATA[real estate activities, professional, scientific and technical activities, administrative and support service activities]]></answer>
+    <sortorder><![CDATA[10]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[11]]></code>
+    <answer><![CDATA[public administration and defence; compulsory social security]]></answer>
+    <sortorder><![CDATA[11]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[12]]></code>
+    <answer><![CDATA[education]]></answer>
+    <sortorder><![CDATA[12]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[13]]></code>
+    <answer><![CDATA[human health and social work activities]]></answer>
+    <sortorder><![CDATA[13]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[14]]></code>
+    <answer><![CDATA[other service activities]]></answer>
+    <sortorder><![CDATA[14]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[2]]></code>
+    <answer><![CDATA[mining and quarrying]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[3]]></code>
+    <answer><![CDATA[manufacturing]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[4]]></code>
+    <answer><![CDATA[electricity, gas, steam and air conditioning supply, water supply, sewerage, waste management and remediation activities]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[5]]></code>
+    <answer><![CDATA[construction]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[6]]></code>
+    <answer><![CDATA[wholesale and retail trade; repair of motor vehicles and motorcycles]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[7]]></code>
+    <answer><![CDATA[accommodation and food service activities]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[8]]></code>
+    <answer><![CDATA[transportation and storage, information and communication]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <code><![CDATA[9]]></code>
+    <answer><![CDATA[financial and insurance activities]]></answer>
+    <sortorder><![CDATA[9]]></sortorder>
+    <assessment_value><![CDATA[1]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <conditions>
+  <fields>
+   <fieldname>cid</fieldname>
+   <fieldname>qid</fieldname>
+   <fieldname>cqid</fieldname>
+   <fieldname>cfieldname</fieldname>
+   <fieldname>method</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>scenario</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <cid><![CDATA[39515]]></cid>
+    <qid><![CDATA[99553]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp4]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39511]]></cid>
+    <qid><![CDATA[99550]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39509]]></cid>
+    <qid><![CDATA[99548]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39506]]></cid>
+    <qid><![CDATA[99546]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39505]]></cid>
+    <qid><![CDATA[99545]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39523]]></cid>
+    <qid><![CDATA[99537]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39518]]></cid>
+    <qid><![CDATA[99556]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp4]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39517]]></cid>
+    <qid><![CDATA[99555]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp4]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39539]]></cid>
+    <qid><![CDATA[99525]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39538]]></cid>
+    <qid><![CDATA[99526]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39537]]></cid>
+    <qid><![CDATA[99527]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp4]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39536]]></cid>
+    <qid><![CDATA[99528]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39528]]></cid>
+    <qid><![CDATA[99533]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[39516]]></cid>
+    <qid><![CDATA[99554]]></qid>
+    <cqid><![CDATA[99544]]></cqid>
+    <cfieldname><![CDATA[475144X7190X99544]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[grp4]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+  </rows>
+ </conditions>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[7184]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Soziodemografische Daten]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description><![CDATA[<p>
+	The following questionnaire includes questions and statements related to your work. There are no right or wrong answers. Please check the response that best applies to you.</p>
+<p>
+	First, we have some questions about you. Please indicate the appropriate answer.</p>
+]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7184]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Soziodemografische Daten]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description><![CDATA[<div>
+	Im folgenden Fragebogen finden Sie Fragen und Aussagen, die im Zusammenhang mit Ihrer Arbeit stehen.</div>
+<div>
+	Es gibt keine richtigen oder falschen Antworten.</div>
+<div>
+	Bitte kreuzen Sie immer das an, was am besten auf Sie zutrifft.</div>
+<div>
+	 </div>
+<div>
+	Zunächst haben wir einige Fragen zu Ihrer Person. Kreuzen Sie bitte Zutreffendes an.</div>
+]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7185]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Arbeitsbedingungen 1]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description><![CDATA[The following questions will address your work conditions. Please indicate the extent to which these conditions apply to your current work environment. ]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7185]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Arbeitsbedingungen]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description><![CDATA[Im Folgenden geht es um die Bedingungen bei Ihrer Arbeit.<br />
+Bitte kreuzen Sie an, inwiefern diese Bedingungen auf Ihre derzeitige Arbeitstätigkeit zutreffen.]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7190]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Gruppe]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7190]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Gruppe]]></group_name>
+    <group_order><![CDATA[0]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7191]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Team]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7191]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Team]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7192]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[FragenPL]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7192]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[FragenPL]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7193]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Endseite1]]></group_name>
+    <group_order><![CDATA[5]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[7193]]></gid>
+    <sid><![CDATA[475144]]></sid>
+    <group_name><![CDATA[Endseite]]></group_name>
+    <group_order><![CDATA[5]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[1]]></grelevance>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[99525]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[sex]]></title>
+    <question><![CDATA[Please indicate your gender:  ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99525]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[sex]]></title>
+    <question><![CDATA[Bitte geben Sie Ihr Geschlecht an.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99526]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[N]]></type>
+    <title><![CDATA[age]]></title>
+    <question><![CDATA[How old are you?  ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99526]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[N]]></type>
+    <title><![CDATA[age]]></title>
+    <question><![CDATA[Wie alt sind Sie?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[mitArb]]></title>
+    <question><![CDATA[How many employees work for your company:  ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[mitArb]]></title>
+    <question><![CDATA[Wie viele Mitarbeiter arbeiten in Ihrem Unternehmen?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[beruflAbschl]]></title>
+    <question><![CDATA[Welches ist Ihr höchster Bildungsabschluss? ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[beruflAbschl]]></title>
+    <question><![CDATA[What is the highest level of education that you have completed?  ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7185]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[parti]]></title>
+    <question/>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99533]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7185]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[parti]]></title>
+    <question><![CDATA[Bitte bewerten Sie folgende Aussagen:]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99537]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7191]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[fkFi]]></title>
+    <question><![CDATA[Sind Sie einer Führungskraft unterstellt?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99537]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7191]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[fkFi]]></title>
+    <question><![CDATA[Are you subject to a leader? ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99544]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7190]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[grpFi]]></title>
+    <question><![CDATA[Bitte geben Sie an, zu welcher Personengruppe Sie in Ihrer Organisation geh&ouml;ren. ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99544]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7190]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[grpFi]]></title>
+    <question><![CDATA[Please specify which of the following groups you belong to in your organization: ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99545]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7191]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[fkVer]]></title>
+    <question><![CDATA[Sind Sie Führungskraft des Teams?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99545]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7191]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[fkVer]]></title>
+    <question><![CDATA[Are you the leader of this team?
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99546]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[nat1]]></title>
+    <question><![CDATA[What is your nationality: ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99546]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[nat1]]></title>
+    <question><![CDATA[Welche Nationalität haben Sie?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99548]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7191]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[teamWahl]]></title>
+    <question><![CDATA[Bitte geben Sie an, in welchem Team Sie arbeiten.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99548]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7191]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[teamWahl]]></title>
+    <question><![CDATA[Please state which team you are working with. ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99550]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[nat2]]></title>
+    <question><![CDATA[How long have you been living in the country you are currently working in?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99550]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7184]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[nat2]]></title>
+    <question><![CDATA[Wie lange leben Sie bereits in dem Land, in dem Sie derzeit arbeiten?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp2"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99553]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[plinfo]]></title>
+    <question><![CDATA[<p style="text-align: center;">
+	The following questions are meant for the manager/contact person who initiates the survey in the organization.</p>
+<p>
+	 </p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99553]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[plinfo]]></title>
+    <question><![CDATA[<p style="text-align: center;">
+	Die folgenden Fragen richten sich an Sie als Initiator/in der Befragung. </p>
+<p style="text-align: center;">
+	 </p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[branche]]></title>
+    <question><![CDATA[In welchem Wirtschaftszweig ist Ihre Organisation größtenteils tätig? ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99554]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[branche]]></title>
+    <question><![CDATA[In which sector if the economy does your establishment operate for the most part?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99555]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wissMan]]></title>
+    <question><![CDATA[<p>
+	With the following measures knowledge can be identified and bound inside organisations.</p>
+<p>
+	Which measures are systematically and regularly used in your organisation?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99555]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wissMan]]></title>
+    <question><![CDATA[Mit den folgenden Maßnahmen kann Wissen in Organisationen identifiziert und gebunden werden.<br />
+<br />
+Welche Maßnahmen werden in Ihrer Organisation systematisch und regelmäßig eingesetzt?<br />
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99556]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[N]]></type>
+    <title><![CDATA[kennZ]]></title>
+    <question><![CDATA[Bitte geben Sie die Kennzahl des Landkreises bzw. der kreisfreien Stadt an, in welcher sich die Organisation befindet.]]></question>
+    <preg/>
+    <help><![CDATA[<p>
+	Die entsprechende Zuordnung ist der Tabelle mit Hilfe des Namens des Landkreises/der kreisfreien Stadt oder der Deutschlandkarte zu entnehmen.</p>
+<p>
+	 </p>
+<p>
+	Zuordnung als Tabelle: <a href="http://www.innografie.uni-hamburg.de/lime/upload/kennzahl-tabelle.xlsx">Download-Link</a></p>
+<p>
+	Zuordnung als Abbildung: <a href="http://www.innografie.uni-hamburg.de/lime/upload/images/kennzahl-karte.pdf" target="_blank">Link</a> in neuem Fenster</p>
+<p>
+	 </p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99556]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[N]]></type>
+    <title><![CDATA[kennZ]]></title>
+    <question><![CDATA[Please write the code for the county or independent city in which your organization is located. ]]></question>
+    <preg/>
+    <help><![CDATA[<p>
+	The corresponding classification for this code will be determined from a table using the name of the county/independent city or a map of Germany.</p>
+<p>
+	Classification as a table: <a href="http://www.innografie.uni-hamburg.de/lime/upload/kennzahl-tabelle.xlsx">Link</a></p>
+<p>
+	Classification as a figure: <a href="http://www.innografie.uni-hamburg.de/lime/upload/images/kennzahl-karte.pdf">Link</a></p>
+<p>
+	 </p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((475144X7190X99544.NAOK == "grp4"))]]></relevance>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[99562]]></qid>
+    <parent_qid><![CDATA[99533]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7185]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[par13]]></title>
+    <question><![CDATA[Wenn man eine gute Idee hat, kann man sie in meiner Organisation auch verwirklichen.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99562]]></qid>
+    <parent_qid><![CDATA[99533]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7185]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[par13]]></title>
+    <question><![CDATA[If one has a good idea, it can be realised in my organisation. ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99563]]></qid>
+    <parent_qid><![CDATA[99533]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7185]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[par39]]></title>
+    <question><![CDATA[In meiner Organisation kommt es vor, dass man vor vollendete Tatsachen gestellt wird.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99563]]></qid>
+    <parent_qid><![CDATA[99533]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7185]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[par39]]></title>
+    <question><![CDATA[In my organisation, it happens that one is faced with accomplished facts. ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99564]]></qid>
+    <parent_qid><![CDATA[99533]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7185]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[par42]]></title>
+    <question><![CDATA[Everybody has a say and can co-decide about important issues in my organisation. ]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99564]]></qid>
+    <parent_qid><![CDATA[99533]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7185]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[par42]]></title>
+    <question><![CDATA[Bei wichtigen Dingen in meiner Organisation kann man mitreden und mitentscheiden.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99643]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss1]]></title>
+    <question><![CDATA[Durchführung und Auswertung von Exit-Interviews mit Mitarbeitern, die aus der Organisation ausscheiden.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99643]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss1]]></title>
+    <question><![CDATA[Doing and analysing exit-interviews with employees leaving the organisation.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99644]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss2]]></title>
+    <question><![CDATA[Staying in contact with employees who left the organisation.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99644]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss2]]></title>
+    <question><![CDATA[Kontakthaltung zu ausgeschiedenen Mitarbeitern.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99645]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss3]]></title>
+    <question><![CDATA[Wissensdokumentation in Datenbanken und anderen IT-Tools.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99645]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss3]]></title>
+    <question><![CDATA[Documentation of knowledge in databases or other information technology tools.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99646]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss4]]></title>
+    <question><![CDATA[Identification of key personal.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99646]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss4]]></title>
+    <question><![CDATA[Identifikation von Schlüsselpersonal.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99647]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss5]]></title>
+    <question><![CDATA[Mentoring/ Coaching/ Training for junior employees. ]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[99647]]></qid>
+    <parent_qid><![CDATA[99555]]></parent_qid>
+    <sid><![CDATA[475144]]></sid>
+    <gid><![CDATA[7192]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[wiss5]]></title>
+    <question><![CDATA[Mentoring/Coaching/Training für Nachwuchskräfte.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+  </rows>
+ </subquestions>
+ <question_attributes>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>attribute</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>language</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[99525]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99525]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value/>
+   </row>
+   <row>
+    <qid><![CDATA[99526]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99526]]></qid>
+    <attribute><![CDATA[suffix]]></attribute>
+    <value><![CDATA[Jahre]]></value>
+    <language><![CDATA[de]]></language>
+   </row>
+   <row>
+    <qid><![CDATA[99526]]></qid>
+    <attribute><![CDATA[suffix]]></attribute>
+    <value><![CDATA[years]]></value>
+    <language><![CDATA[en]]></language>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99527]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value/>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99528]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value/>
+   </row>
+   <row>
+    <qid><![CDATA[99544]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99546]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99546]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value><![CDATA[andere:]]></value>
+    <language><![CDATA[de]]></language>
+   </row>
+   <row>
+    <qid><![CDATA[99548]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99550]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99550]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value><![CDATA[Jahre:]]></value>
+    <language><![CDATA[de]]></language>
+   </row>
+   <row>
+    <qid><![CDATA[99550]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value><![CDATA[Years:]]></value>
+    <language><![CDATA[en]]></language>
+   </row>
+   <row>
+    <qid><![CDATA[99553]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99555]]></qid>
+    <attribute><![CDATA[answer_width]]></attribute>
+    <value><![CDATA[50]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99555]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99556]]></qid>
+    <attribute><![CDATA[hide_tip]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99556]]></qid>
+    <attribute><![CDATA[maximum_chars]]></attribute>
+    <value><![CDATA[5]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99556]]></qid>
+    <attribute><![CDATA[num_value_int_only]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[99556]]></qid>
+    <attribute><![CDATA[text_input_width]]></attribute>
+    <value><![CDATA[10]]></value>
+   </row>
+  </rows>
+ </question_attributes>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+   <fieldname>questionindex</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[475144]]></sid>
+    <admin><![CDATA[NN]]></admin>
+    <adminemail/>
+    <anonymized><![CDATA[Y]]></anonymized>
+    <faxto/>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[N]]></savetimings>
+    <template><![CDATA[citronade]]></template>
+    <language><![CDATA[de]]></language>
+    <additional_languages><![CDATA[en ]]></additional_languages>
+    <datestamp><![CDATA[Y]]></datestamp>
+    <usecookie><![CDATA[N]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[Y]]></allowsave>
+    <autonumber_start><![CDATA[0]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[Y]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[D]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email/>
+    <attributedescriptions><![CDATA[a:0:{}]]></attributedescriptions>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[N]]></showxquestions>
+    <showgroupinfo><![CDATA[D]]></showgroupinfo>
+    <shownoanswer><![CDATA[Y]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bouncetime><![CDATA[0]]></bouncetime>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <bounceaccounttype/>
+    <bounceaccounthost/>
+    <bounceaccountpass/>
+    <bounceaccountencryption/>
+    <bounceaccountuser/>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle><![CDATA[0]]></googleanalyticsstyle>
+    <googleanalyticsapikey/>
+    <questionindex><![CDATA[0]]></questionindex>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[475144]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[de]]></surveyls_language>
+    <surveyls_title><![CDATA[Befragung - template]]></surveyls_title>
+    <surveyls_description><![CDATA[<br />
+]]></surveyls_description>
+    <surveyls_welcometext><![CDATA[<p>
+	Liebe Teilnehmerin, lieber Teilnehmer,</p>
+<p>
+	&nbsp;</p>
+<p>
+	dies ist eine&nbsp;<strong>Befragung zum Thema XXX.</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Die Beantwortung der Fragen dauert maximal XXX Minuten.</p>
+<p>
+	&nbsp;</p>
+<p>
+	Für die Befragung gilt:</p>
+<ul>
+	<li>
+		Ihre Teilnahme ist <strong>freiwillig</strong> und kann jederzeit beendet werden (Button „Umfrage verlassen und Antworten löschen").</li>
+	<li>
+		Ihre Angaben werden vollkommen <strong>anonym</strong> ausgewertet und vertraulich behandelt.</li>
+	<li>
+		Die Auswertung lässt keine Rückschlüsse auf einzelne Personen zu.</li>
+	<li>
+		<strong>Es werden nur Ergebnisse auf Gruppenebene von mindestens 6 Mitarbeiterinnen bzw. Mitarbeiter rückgemeldet, nicht von einzelnen Personen.</strong></li>
+	<li>
+		Selbstverständlich wird der Datenschutz gewährleistet</li>
+</ul>
+<p>
+	&nbsp;</p>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p>
+	<strong>Herzlichen Dank für Ihre Teilnahme!</strong></p>
+<br />
+<p>
+	Bei technischen Fragen wenden Sie sich bitte per E-Mail an XXX.</p>
+]]></surveyls_endtext>
+    <surveyls_url/>
+    <surveyls_urldescription><![CDATA[Befragung]]></surveyls_urldescription>
+    <surveyls_email_invite_subj><![CDATA[Einladung zur einer Umfrage]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Hallo {FIRSTNAME},<br /><br />Hiermit möchten wir Sie zu einer Umfrage einladen.<br /><br />Der Titel der Umfrage ist <br />'{SURVEYNAME}'<br /><br />'{SURVEYDESCRIPTION}'<br /><br />Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br /><br />Mit freundlichen Grüßen,<br /><br />{ADMINNAME} ({ADMINEMAIL})<br /><br />----------------------------------------------<br />Klicken Sie hier um die Umfrage zu starten:<br />{SURVEYURL}<br /><br />Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />{OPTOUTURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Erinnerung an die Teilnahme an einer Umfrage]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Hallo {FIRSTNAME},<br /><br />Vor kurzem haben wir Sie zu einer Umfrage eingeladen.<br /><br />Zu unserem Bedauern haben wir bemerkt, dass Sie die Umfrage noch nicht ausgefüllt haben. Wir möchten Ihnen mitteilen, dass die Umfrage noch aktiv ist und würden uns freuen, wenn Sie teilnehmen könnten.<br /><br />Der Titel der Umfrage ist <br />'{SURVEYNAME}'<br /><br />'{SURVEYDESCRIPTION}'<br /><br />Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br /><br /> Mit freundlichen Grüßen,<br /><br />{ADMINNAME} ({ADMINEMAIL})<br /><br />----------------------------------------------<br />Klicken Sie hier um die Umfrage zu starten:<br />{SURVEYURL}<br /><br />Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Registrierungsbestätigung für Teilnahmeumfrage]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Hallo {FIRSTNAME},<br /><br />Sie (oder jemand, der Ihre E-Mail benutzt hat) haben sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br /><br />Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den folgenden Link.<br /><br />{SURVEYURL}<br /><br />Wenn Sie irgendwelche Fragen zu dieser Umfrage haben oder wenn Sie sich _nicht_ für diese Umfrage angemeldet haben und sie glauben, dass Ihnen diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Bestätigung für die Teilnahme an unserer Umfrage]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Hallo {FIRSTNAME},<br /><br />Vielen Dank für die Teilnahme an der Umfrage mit dem Titel {SURVEYNAME}. Ihre Antworten wurden bei uns gespeichert.<br /><br />Wenn Sie irgendwelche Fragen zu dieser E-Mail haben, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.<br /><br />Mit freundlichen Grüßen,<br /><br />{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hallo,<br /><br />Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br /><br />Klicken Sie auf den folgenden Link um die Umfrage neu zu laden:<br />{RELOADURL}<br /><br />Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />{VIEWRESPONSEURL}<br /><br />Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />{EDITRESPONSEURL}<br /><br />Um die Statistik zu sehen, klicken Sie hier:<br />{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME} mit Ergebnissen]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hallo,<br /><br />Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br /><br />Klicken Sie auf den folgenden Link um die Umfrage neu zu laden:<br />{RELOADURL}<br /><br />Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />{VIEWRESPONSEURL}<br /><br />Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />{EDITRESPONSEURL}<br /><br />Um die Statistik zu sehen, klicken Sie hier:<br />{STATISTICSURL}<br /><br /><br />Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[1]]></surveyls_numberformat>
+   </row>
+   <row>
+    <surveyls_survey_id><![CDATA[475144]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[en]]></surveyls_language>
+    <surveyls_title><![CDATA[Innografie-Monitor-MA-REG-v2]]></surveyls_title>
+    <surveyls_description/>
+    <surveyls_welcometext><![CDATA[<p>
+	Dear participant,<br />
+	<br />
+	we cordially invite you to participate in a<strong> survey about XXX</strong>!</p>
+<p>
+	Completing this survey will take approximately XXX minutes.</p>
+<p>
+	For the survey, your participation is voluntary and can be terminated at any time (by pressing the button that says: "Quit survey and delete answers"). Your information will be completely anonymous and confidential. Our analyses will not allow for any conclusions regarding individual employees. Only results at the group level for a minimum of 6 employees will be reported. Of course, privacy is assured.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	If you have any questions, please contact your&nbsp;project manager Innografie or your innovation manager.</p>
+<p>
+	&nbsp;</p>
+<hr />
+<blockquote>
+	<p style="text-align: center;">
+		<span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(29, 45, 69); line-height: 15px; text-align: center; font-weight: bold; font-style: italic;">A note on this survey</span></span></span></p>
+	<p style="text-align: center;">
+		<span style="font-size:11px;"><span style="font-family:arial,helvetica,sans-serif;">The used questionnaire and its scales are strictly used for scientific purpose. The collected data will be treated in compliance with data privacy regulations. The ascertainment, analysis and further processing of the data serve solely the purpose to achieve scientific knowledge and its scientific application. </span></span></p>
+</blockquote>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p>
+	Thanks for your participation!</p>
+<p>
+	<br />
+	For further inquiries, please e-mail to XXX.</p>
+]]></surveyls_endtext>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Invitation to participate in a survey]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Dear {FIRSTNAME},
+
+you have been invited to participate in a survey.
+
+The survey is titled:
+"{SURVEYNAME}"
+
+"{SURVEYDESCRIPTION}"
+
+To participate, please click on the link below.
+
+Sincerely,
+
+{ADMINNAME} ({ADMINEMAIL})
+
+----------------------------------------------
+Click here to do the survey:
+{SURVEYURL}
+
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:
+{OPTOUTURL}
+
+If you are blacklisted but want to participate in this survey and want to receive invitations please click the following link:
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Reminder to participate in a survey]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Dear {FIRSTNAME},
+
+Recently we invited you to participate in a survey.
+
+We note that you have not yet completed the survey, and wish to remind you that the survey is still available should you wish to take part.
+
+The survey is titled:
+"{SURVEYNAME}"
+
+"{SURVEYDESCRIPTION}"
+
+To participate, please click on the link below.
+
+Sincerely,
+
+{ADMINNAME} ({ADMINEMAIL})
+
+----------------------------------------------
+Click here to do the survey:
+{SURVEYURL}
+
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Survey registration confirmation]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Dear {FIRSTNAME},
+
+You, or someone using your email address, have registered to participate in an online survey titled {SURVEYNAME}.
+
+To complete this survey, click on the following URL:
+
+{SURVEYURL}
+
+If you have any questions about this survey, or if you did not register to participate and believe this email is in error, please contact {ADMINNAME} at {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Confirmation of your participation in our survey]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Dear {FIRSTNAME},
+
+this email is to confirm that you have completed the survey titled {SURVEYNAME} and your response has been saved. Thank you for participating.
+
+If you have any further questions about this email, please contact {ADMINNAME} on {ADMINEMAIL}.
+
+Sincerely,
+
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[9]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Response submission for survey {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hello,
+
+A new response was submitted for your survey '{SURVEYNAME}'.
+
+Click the following link to reload the survey:
+{RELOADURL}
+
+Click the following link to see the individual response:
+{VIEWRESPONSEURL}
+
+Click the following link to edit the individual response:
+{EDITRESPONSEURL}
+
+View statistics by clicking here:
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Response submission for survey {SURVEYNAME} with results]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hello,
+
+A new response was submitted for your survey '{SURVEYNAME}'.
+
+Click the following link to reload the survey:
+{RELOADURL}
+
+Click the following link to see the individual response:
+{VIEWRESPONSEURL}
+
+Click the following link to edit the individual response:
+{EDITRESPONSEURL}
+
+View statistics by clicking here:
+{STATISTICSURL}
+
+
+The following answers were given by the participant:
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+</document>

@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fbpsych v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-06-07 09:14:57+0000\n"
+"Last-Translator: admin <schoenfeld@effective-webwork.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: fbpsych_login_widget.php:40
+#@ twentytwelve
+msgid "FBP_PROJECT_WELCOME"
+msgstr ""
+
+#: fbpsych_login_widget.php:56
+#@ twentytwelve
+msgid "FBP_PROJECT_START"
+msgstr ""
+
+#: fbpsych_login_widget.php:64
+#@ twentytwelve
+msgid "FBP_LOGOUT"
+msgstr ""
+
+#: fbpsych_login_widget.php:68
+#@ twentytwelve
+msgid "FBP_LOGIN_MAIN"
+msgstr ""
+
+#: fbpsych_login_widget.php:69
+#@ twentytwelve
+msgid "FBP_LOGIN"
+msgstr ""
+
+#: fbpsych_login_widget.php:71
+#@ twentytwelve
+msgid "FBP_REGISTER_MAIN"
+msgstr ""
+
+#: fbpsych_login_widget.php:72
+#@ twentytwelve
+msgid "FBP_REGISTER"
+msgstr ""
+
+#: fbpsych_login_widget.php:92
+#: fbpsych_survey_widget.php:81
+#@ text_domain
+msgid "New title"
+msgstr ""
+
+#: fbpsych_login_widget.php:96
+#: fbpsych_survey_widget.php:85
+#@ default
+msgid "Title:"
+msgstr ""
+
